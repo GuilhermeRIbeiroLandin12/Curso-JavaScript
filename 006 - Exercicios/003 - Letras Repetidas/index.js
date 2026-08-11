@@ -1,4 +1,4 @@
-const palavra = "Abacate";
+const palavra = "AbacatE". toLowerCase();
 let letras = {};
 
 for(let i = 0; i < palavra.length; i++) {
@@ -9,3 +9,5 @@ for(let i = 0; i < palavra.length; i++) {
  }
 }
 console.log(letras);
+
+
